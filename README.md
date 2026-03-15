@@ -382,7 +382,7 @@ cd Adwaita-for-Steam
 
 ## Preview
 
-![Steam](./Steam/Steam.png)
+![Steam](./Steam.png)
 
 ---
 
