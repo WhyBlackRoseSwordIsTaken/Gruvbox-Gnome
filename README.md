@@ -351,8 +351,8 @@ The core configuration is complete! You can find the specific assets and configu
 | :---: | :---: | :---: | :---: |
 | ![Gruvbox 1](./Wallpapers/I.png) | ![Gruvbox 2](./Wallpapers/II.png) | ![Gruvbox 3](./Wallpapers/III.png) | ![Gruvbox 4](./Wallpapers/IV.png) |
 | **Gruvbox 1** | **Gruvbox 2** | **Gruvbox 3** | **Gruvbox 4** |
-| ![Gruvbox 5](./Wallpapers/V.png) | ![Gruvbox 6](./Wallpapers/VI.png) | ![Gruvbox 7](./Wallpapers/VII.png) | ![Gruvbox 8](./Wallpapers/VIII.png) |
-| **Gruvbox 5** | **Gruvbox 6** | **Gruvbox 7** | **Gruvbox 8** |
+| ![Gruvbox 5](./Wallpapers/VI.png) | ![Gruvbox 6](./Wallpapers/VII.png) | ![Gruvbox 7](./Wallpapers/VIII.png) |
+| **Gruvbox 5** | **Gruvbox 6** | **Gruvbox 7** |
 
 ---
 
