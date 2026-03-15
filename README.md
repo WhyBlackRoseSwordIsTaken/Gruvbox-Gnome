@@ -22,7 +22,7 @@ A comprehensive guide for ricing with Gruvbox theme as a base.
 ![Gruvbox Theme](./Preview/2.png)
 
 **Music:**
-![Gruvbox Theme](./Preview/4.png)
+![Gruvbox Theme](./Preview/5.png)
 
 ---
 
