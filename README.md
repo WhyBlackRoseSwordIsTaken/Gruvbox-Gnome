@@ -510,7 +510,7 @@ You should also adjust the width and height to match your specific image's propo
 
 ## Preview
 
-![Fastfetch](./Fastfetch/Fasfetch.png)
+![Fastfetch](./Fastfetch/Fastfetch.png)
 
 ---
 
