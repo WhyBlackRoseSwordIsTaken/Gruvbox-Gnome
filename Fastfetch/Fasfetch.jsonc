@@ -1,0 +1,144 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+    "logo": {
+        "type": "file",
+        "source": "DIRECTORY TO THE FILE", 
+        "color": {
+            "1": "red",
+        },
+        "padding": {
+            "top": 2,
+            "left": 1,
+            "right": 1
+        }
+    },
+    "display": {
+        "bar": {
+            "char": {
+                "total": "─"
+            },
+            "color": {
+                "border": "red",
+                "total": "red"
+            },
+            "width": 10
+        },
+        "percent": {
+            "type": 3,
+            "ndigits": 2
+        },
+        "key": {
+            "width": 16
+        },
+        "separator": "",
+        "color": {
+            "title": "white",
+            "output": "blue"
+        }
+    },
+    "modules": [
+        {
+            "type": "custom",
+            "key": "╭─System─────┬───────────────────────────────────────────────────╮",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "host",
+            "key": "├╴󰌢 PC       │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "os",
+            "key": "├╴ OS       │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "wm",
+            "key": "├╴ WM       │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "kernel",
+            "key": "├╴ Kernel   │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "font",
+            "key": "├╴ Font     │",
+            "keyColor": "#B0A98D"
+        },
+
+        {
+            "type": "uptime",
+            "key": "├╴ Uptime   │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "custom",
+            "key": "╰────────────┴───────────────────────────────────────────────────╯",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "custom",
+            "key": "╭─Terminal───┬───────────────────────────────────────────────────╮",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "shell",
+            "key": "├╴ Shell    │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "terminal",
+            "key": "├╴ Terminal │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "terminalfont",
+            "key": "├╴ Font     │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "custom",
+            "key": "╰────────────┴───────────────────────────────────────────────────╯",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "custom",
+            "key": "╭─Hardware───┬───────────────────────────────────────────────────╮",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "display",
+            "key": "├╴󰍹 Display  │",
+            "keyColor": "#B0A98D",
+            "format": "{1}×{2}, {3}Hz"
+        },
+        {
+            "type": "cpu",
+            "key": "├╴ CPU      │",
+            "keyColor": "#B0A98D",
+            "format": "{1}"
+        },
+        {
+            "type": "gpu",
+            "key": "├╴󰾲 GPU      │",
+            "keyColor": "#B0A98D"
+        },
+        {
+            "type": "disk",
+            "key": "├╴ Disk     │",
+            "keyColor": "#B0A98D",
+            "format": "{13} {1} / {2}"
+        },
+        {
+            "type": "custom",
+            "key": "╰────────────┴───────────────────────────────────────────────────╯",
+            "keyColor": "#B0A98D"
+        },
+{
+    "type": "custom",
+    "format": "\u001b[33m 󰮯  \u001b[31m• \u001b[32m• \u001b[33m• \u001b[34m• \u001b[35m• \u001b[36m• \u001b[37m• \u001b[38;2;254;128;25m• \u001b[38;2;184;187;38m• \u001b[38;2;131;165;152m•"
+}
+    ]
+}
